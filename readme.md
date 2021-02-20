@@ -37,7 +37,7 @@ Article Page
 
 INstallation Just download and install on your phone
 
-Or play video how to install [play video](https://www.youtube.com/watch?v=_j_M_-vyg04)
+Or play video how to install [play video](https://youtu.be/WseLqDE1eG8)
 
 Need to change unknowns source
 
@@ -45,4 +45,8 @@ Need to change unknowns source
 
 Then install android apk - install anyway - and don't send
 
-Now we apk is installed on your android phone.
+Now apk is installed on your android phone.
+
+
+New Android APK version you can download here
+[https://github.com/mesinkasir/APK-kasir-online-new](https://github.com/mesinkasir/APK-kasir-online-new)
